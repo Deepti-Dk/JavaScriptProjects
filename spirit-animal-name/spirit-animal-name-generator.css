@@ -1,0 +1,50 @@
+body {
+  margin: 1px;
+  padding: 2%;
+  background-color: darkgray;
+}
+
+form {
+  width: 80%;
+  background-color: lightblue;
+  color: black;
+  border: 2px solid chocolate;
+}
+h1 {
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 1%;
+  background-color: chocolate;
+  color: lightblue;
+  text-align: center;
+}
+#clear,
+#submit,
+input,
+label {
+  font-size: 20px;
+  font-weight: bold;
+  list-style-type: none !important;
+}
+h2 {
+  text-align: left;
+}
+#output {
+  margin: 0;
+  padding: 30px;
+  display: block;
+  align-self: center;
+  background-color: chocolate;
+  color: lightblue;
+  width: 92%;
+  height: 20%;
+  font-size: 35px;
+  font-weight: bold;
+  border: none;
+  text-align: center;
+}
+#input-text {
+  margin-left: 2px;
+  font-size: 25px;
+  width: 30%;
+}
